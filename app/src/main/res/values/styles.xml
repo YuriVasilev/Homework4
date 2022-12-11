@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="forButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/around</item>
+        <item name="android:backgroundTint">#63FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingHorizontal">20dp</item>
+        <item name="android:paddingVertical">10dp</item>
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>
